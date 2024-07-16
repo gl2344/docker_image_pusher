@@ -1,1 +1,1 @@
-portainer/portainer:latest
+portainer/portainer-ce:latest
